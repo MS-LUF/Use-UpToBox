@@ -23,7 +23,7 @@ a few cmdlets to download file hosted on uptobox.com file hosting service using 
 [Simple How TO](https://github.com/MS-LUF/Use-UpToBox/blob/main/HOWTO.md)
 
 ## install Use-UpToBox from PowerShell Gallery repository
-You can easily install it from powershell [gallery repository](https://www.powershellgallery.com/packages/Use-UpToBox/) using a simple powershell command and an internet access :-) 
+You can easily install it from [powershell gallery repository](https://www.powershellgallery.com/packages/Use-UpToBox/) using a simple powershell command and an internet access :-) 
 ```
 	Install-Module -Name Use-UpToBox
 ```
